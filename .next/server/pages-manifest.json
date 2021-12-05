@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/documents": "pages/documents.html",
+  "/home": "pages/home.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/quiz": "pages/quiz.html",
+  "/quiz/[quizID]": "pages/quiz/[quizID].html",
+  "/register": "pages/register.html",
+  "/settings": "pages/settings.html",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
